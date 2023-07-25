@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Zakir Hossen
+## Hi there 👋, I'm Zakir Hossen
 #### Web Developer
 ![Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t31.18172-8/17855044_188603088314864_5803901989049703409_o.jpg?_nc_cat=108&cb=99be929b-3346023f&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFJ6AflBQeR7iKrMuOLvoGDVgkcr00995RWCRyvTT33lPhG_uaV-KvRHqCQ1oNJp6mSLJKn-lRBOJSrGPi8NLHd&_nc_ohc=GECKyt2oFH4AX-4DMw4&_nc_ht=scontent.fdac5-2.fna&oh=00_AfC_jWzOKvBq07UYgQRgdNUh93FzGqfg4hi0d76AyQ1JGg&oe=64E6DA0E)
 
  I'm a Web Developer. Make a dynamic and beautiful website for  
 you.
 
-Skills:  HTML / CSS / Jquery / Wordpress/ Wordpress 
+Skills:  HTML / CSS / Jquery / Wordpress
 
 - 🌱 I’m currently learning Web Development 
 - 👯 I’m looking to collaborate on Github 
